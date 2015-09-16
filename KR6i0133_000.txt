@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 比丘避女惡名欲自殺經
+#+DATE: 2015-08-30 20:10:42.122742
+#+PROPERTY: JUAN 0
