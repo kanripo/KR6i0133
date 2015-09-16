@@ -1,20 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:10:41.874878
+#+DATE: 2015-08-30 20:10:42.603328
 #+TITLE: 比丘避女惡名欲自殺經
 #+PROPERTY: CBETA_ID T14n0503
 #+PROPERTY: ID KR6i0133
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 503
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@SONG
 #+PROPERTY: LASTPB <pb:KR6i0133_T_001-0771c> 
 #+PROPERTY: JUAN 1
 ¶
-No.503¶
-
- 比丘避女惡名欲自殺經¶
+No. 503¶
+比丘避女惡名欲自殺經¶
 ¶
-西晉沙門法炬譯¶
+西晉釋法炬譯¶
 
 如是我聞：
 
@@ -24,7 +23,7 @@ No.503¶
 比丘作是念：「我今不應共他婦女起惡名聲，¶
 我今欲於此林中自殺！」
 
-時彼林中，止住天¶
+時彼林中，正住天¶
 神作是念：「惡、不善不類，此比丘不壞無過，而¶
 於林中欲自殺身，我今當往，方便開悟！」
 
@@ -56,7 +55,7 @@ No.503¶
 　是則出家法。¶
 　不由他人語，
 　令汝成劫賊，¶
-　亦不由他人，
+　亦不由他語，
 　令汝得羅漢；¶
 　如汝自知已，
 　諸天亦復知。」
